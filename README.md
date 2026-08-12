@@ -1,4 +1,4 @@
 # git-practice
-mainブランチからの変更です
+featureブランチからの変更です
 gitコマンド練習用のレポジトリ
 gitコマンドの練習をしています
